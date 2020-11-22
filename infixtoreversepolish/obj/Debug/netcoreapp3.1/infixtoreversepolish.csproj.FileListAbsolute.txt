@@ -1,0 +1,13 @@
+C:\Users\kocou\Documents\GitHub\ESL-Gaming-API\net5\lcobfuscate\infixtoreversepolish\infixtoreversepolish\bin\Debug\netcoreapp3.1\infixtoreversepolish.exe
+C:\Users\kocou\Documents\GitHub\ESL-Gaming-API\net5\lcobfuscate\infixtoreversepolish\infixtoreversepolish\bin\Debug\netcoreapp3.1\infixtoreversepolish.deps.json
+C:\Users\kocou\Documents\GitHub\ESL-Gaming-API\net5\lcobfuscate\infixtoreversepolish\infixtoreversepolish\bin\Debug\netcoreapp3.1\infixtoreversepolish.runtimeconfig.json
+C:\Users\kocou\Documents\GitHub\ESL-Gaming-API\net5\lcobfuscate\infixtoreversepolish\infixtoreversepolish\bin\Debug\netcoreapp3.1\infixtoreversepolish.runtimeconfig.dev.json
+C:\Users\kocou\Documents\GitHub\ESL-Gaming-API\net5\lcobfuscate\infixtoreversepolish\infixtoreversepolish\bin\Debug\netcoreapp3.1\infixtoreversepolish.dll
+C:\Users\kocou\Documents\GitHub\ESL-Gaming-API\net5\lcobfuscate\infixtoreversepolish\infixtoreversepolish\bin\Debug\netcoreapp3.1\infixtoreversepolish.pdb
+C:\Users\kocou\Documents\GitHub\ESL-Gaming-API\net5\lcobfuscate\infixtoreversepolish\infixtoreversepolish\obj\Debug\netcoreapp3.1\infixtoreversepolish.csprojAssemblyReference.cache
+C:\Users\kocou\Documents\GitHub\ESL-Gaming-API\net5\lcobfuscate\infixtoreversepolish\infixtoreversepolish\obj\Debug\netcoreapp3.1\infixtoreversepolish.AssemblyInfoInputs.cache
+C:\Users\kocou\Documents\GitHub\ESL-Gaming-API\net5\lcobfuscate\infixtoreversepolish\infixtoreversepolish\obj\Debug\netcoreapp3.1\infixtoreversepolish.AssemblyInfo.cs
+C:\Users\kocou\Documents\GitHub\ESL-Gaming-API\net5\lcobfuscate\infixtoreversepolish\infixtoreversepolish\obj\Debug\netcoreapp3.1\infixtoreversepolish.csproj.CoreCompileInputs.cache
+C:\Users\kocou\Documents\GitHub\ESL-Gaming-API\net5\lcobfuscate\infixtoreversepolish\infixtoreversepolish\obj\Debug\netcoreapp3.1\infixtoreversepolish.dll
+C:\Users\kocou\Documents\GitHub\ESL-Gaming-API\net5\lcobfuscate\infixtoreversepolish\infixtoreversepolish\obj\Debug\netcoreapp3.1\infixtoreversepolish.pdb
+C:\Users\kocou\Documents\GitHub\ESL-Gaming-API\net5\lcobfuscate\infixtoreversepolish\infixtoreversepolish\obj\Debug\netcoreapp3.1\infixtoreversepolish.genruntimeconfig.cache
